@@ -8,11 +8,12 @@ https://github.com/user-attachments/assets/96f0c48a-a60c-4e3b-b9b2-7eb34d9f404d
 This project aims to develop a Convolutional Neural Network (CNN) based model using Keras to classify images into multiple classes. The dataset used consists of images of various sceneries, and the goal is to predict the category of each image based on its features.
 
 ## Key Features:
-- **CNN Model**: Uses a Convolutional Neural Network (CNN) for feature extraction and classification.
+- **Multiclass Classification**: Classify images into 6 categories: glacier, mountain, sea, street, forest, and buildings.
+- **CNN Architecture**: Uses CNN to capture hierarchical features from images.
 - **Flask Web Application**: A user-friendly interface to upload images and get predictions.
-- **Model Saving**: The trained model is saved for later use, enabling predictions without retraining.
-- **Localhost Hosting**: The app is hosted locally, allowing users to test the model interactively.
-- **Data Augmentation**: The dataset is augmented with techniques such as rotation, zooming, and shifting to improve the model's generalization.
+- **Data Augmentation**: Augments the dataset with techniques such as rotation, shifting, and zooming to improve model generalization.
+- **PCA Visualization**: Principal Component Analysis (PCA) visualizes the feature distribution of the dataset.
+- **Model Evaluation**: Evaluates the model's performance based on test accuracy and loss, with predictions made on unseen data.
 
 ## Technical Implementation:
 1. **Data Preprocessing**:
