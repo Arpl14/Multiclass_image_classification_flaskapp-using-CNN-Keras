@@ -8,7 +8,6 @@ https://github.com/user-attachments/assets/96f0c48a-a60c-4e3b-b9b2-7eb34d9f404d
 This project aims to develop a Convolutional Neural Network (CNN) based model using Keras to classify images into multiple classes. The dataset used consists of images of various sceneries, and the goal is to predict the category of each image based on its features.
 
 ## Key Features:
-- **Multiclass Image Classification**: Classifies images into 6 categories.
 - **CNN Model**: Uses a Convolutional Neural Network (CNN) for feature extraction and classification.
 - **Flask Web Application**: A user-friendly interface to upload images and get predictions.
 - **Model Saving**: The trained model is saved for later use, enabling predictions without retraining.
