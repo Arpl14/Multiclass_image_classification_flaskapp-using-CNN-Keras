@@ -59,5 +59,3 @@ This project aims to develop a Convolutional Neural Network (CNN) based model us
 
 ## Conclusion:
 The model provides a solid foundation for multiclass image classification tasks. While the current accuracy is decent, there is ample room for further improvement using techniques such as transfer learning (using VGG16, InceptionV3 etc), hyperparameter optimization, and regularization. With future enhancements, this project can achieve even better classification results and generalize well to unseen data.
-
--git clone https://github.com/Arpl14/Multiclass_image_classification_flaskapp-using-CNN-Keras.git
