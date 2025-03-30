@@ -1,11 +1,12 @@
 # Multiclass Image Classification using CNN and Keras
-
+![Screen Recording 2025-03-30 at 6 59 47 PM](https://github.com/user-attachments/assets/72074d53-0943-4c01-9ecf-31bc74333315)
 ## Project Overview:
 This project aims to develop a Convolutional Neural Network (CNN) based model using Keras to classify images into multiple classes. The dataset used consists of images of various sceneries, and the goal is to predict the category of each image based on its features.
 
 ## Key Features:
 - **Multiclass Classification**: The model is designed to classify images into 6 categories: glacier, mountain, sea, street, forest, and buildings.
 - **CNN Architecture**: Utilizes a CNN model to capture hierarchical features from images.
+
 - **Data Augmentation**: The dataset is enhanced using techniques such as rotation, shifting, and zooming to improve model generalization.
 - **PCA Visualization**: Principal Component Analysis (PCA) is used to visualize the feature distribution of the dataset.
 - **Model Evaluation**: The model's performance is evaluated based on test accuracy and loss, and predictions are made on unseen data.
