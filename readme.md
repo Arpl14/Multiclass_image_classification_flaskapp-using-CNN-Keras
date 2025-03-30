@@ -1,6 +1,8 @@
 # Multiclass Image Classification using CNN and Keras
 
-https://github.com/user-attachments/assets/34ad0e7e-cabc-4f0d-9a8d-896579f318b9
+
+https://github.com/user-attachments/assets/96f0c48a-a60c-4e3b-b9b2-7eb34d9f404d
+
 
 ## Project Overview:
 This project aims to develop a Convolutional Neural Network (CNN) based model using Keras to classify images into multiple classes. The dataset used consists of images of various sceneries, and the goal is to predict the category of each image based on its features.
