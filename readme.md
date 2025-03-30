@@ -49,7 +49,7 @@ This project aims to develop a Convolutional Neural Network (CNN) based model us
    ```bash
       git clone https://github.com/Arpl14/Multiclass_image_classification_flaskapp-using-CNN-Keras.git
 2. **Run app on local PC**:
-   To run the flask app on your local computer follow the steps from the folder:    .You can download all the requirements.txt modules and setup the environment using the instructions. The preview above is how the app functions overall. 
+   To run the flask app on your local computer **follow the steps from the file: Run_app_local_readme.md**  .You can download all the requirements.txt modules and setup the environment using the instructions. The preview above is how the app functions overall. 
 
 
 ## Conclusion:
